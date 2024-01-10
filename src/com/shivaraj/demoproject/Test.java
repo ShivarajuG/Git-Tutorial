@@ -1,6 +1,6 @@
 package com.shivaraj.demoproject;
 
 public class Test {
-//HI
+//HI Global repo Linked successfully.
 
 }
